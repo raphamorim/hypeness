@@ -1,0 +1,19 @@
+{
+  "name": "hypeness",
+  "version": "1.0.1",
+  "description": "Get a random hype tool/framework/library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphamorim/hypeness.git"
+  },
+  "author": "Raphael Amorim",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/raphamorim/hypeness/issues"
+  },
+  "homepage": "https://github.com/raphamorim/hypeness#readme"
+}
